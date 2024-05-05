@@ -18,7 +18,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
-```
+
 ![Screenshot 2024-05-05 192245](https://github.com/PREM3112/EXNO-6-DS/assets/145449383/8f510d1c-ebf2-4226-a12d-280cb070d639)
 ![Screenshot 2024-05-05 192311](https://github.com/PREM3112/EXNO-6-DS/assets/145449383/9dce15df-10a0-43ae-9824-5b11dc463fd1)
 ![Screenshot 2024-05-05 192319](https://github.com/PREM3112/EXNO-6-DS/assets/145449383/d79af3c8-53ff-4e0f-a142-a99fe48f2b02)
@@ -54,7 +54,7 @@ STEP 5:Include Necessary parameters in each functions.
 ![Screenshot 2024-05-05 193611](https://github.com/PREM3112/EXNO-6-DS/assets/145449383/1da92aea-d3d3-4ba0-8bc1-240e72123334)
 ![Screenshot 2024-05-05 193657](https://github.com/PREM3112/EXNO-6-DS/assets/145449383/663c0c4e-6427-41b6-93f9-142cb68e5b18)
 
-```
+
 
 # Result:
 The task is comleted sucessfully.
