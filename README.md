@@ -51,7 +51,8 @@ STEP 5:Include Necessary parameters in each functions.
 ![Screenshot 2024-05-05 193539](https://github.com/PREM3112/EXNO-6-DS/assets/145449383/100d4f82-d41d-490b-bfde-9696a2ee13d3)
 ![Screenshot 2024-05-05 193559](https://github.com/PREM3112/EXNO-6-DS/assets/145449383/b3bc8cc1-13b1-45dc-8663-6c02b913149b)
 ![Screenshot 2024-05-05 193611](https://github.com/PREM3112/EXNO-6-DS/assets/145449383/1da92aea-d3d3-4ba0-8bc1-240e72123334)
-![Screenshot 2024-05-05 193657](https://github.com/PREM3112/EXNO-6-DS/assets/145449383/c8eb2664-5ff6-4f89-9cd4-4a906ce143f8)
+![Screenshot 2024-05-05 193657](https://github.com/PREM3112/EXNO-6-DS/assets/145449383/663c0c4e-6427-41b6-93f9-142cb68e5b18)
+
 
 
 # Result:
